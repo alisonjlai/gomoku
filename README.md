@@ -1,9 +1,9 @@
 # Gomoku Game
 
-This repository contains a Python-based Gomoku game that runs with the help of the Processing library.
+A strategic Gomoku game powered by Python, featuring a heuristic-based AI that excels in pattern recognition, threat assessment, and defensive strategies. Experience challenging gameplay against an AI that adapts, offering a dynamic difficulty curve that will test the skills of both beginners and seasoned players.
 
 <div align="center">
-  <img src="screenshot.png" alt="screenshot" width="300" height="300">
+  <img src="./gomokuApp/screenshot.png" alt="screenshot" width="300" height="300">
 </div>
 
 ## AI (ComputerPlayer Class) Overview
