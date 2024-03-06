@@ -3,7 +3,7 @@
 This repository contains a Python-based Gomoku game that runs with the help of the Processing library.
 
 <div align="center">
-  <img src="screenshot.png" alt="screenshot" width="550" height="250">
+  <img src="screenshot.png" alt="screenshot" width="300" height="300">
 </div>
 
 ## AI (ComputerPlayer Class) Overview
